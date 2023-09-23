@@ -1,6 +1,6 @@
 ## Olá, Bem Vindo(a)! 👋
 
-#### Estou trabalhando em um programa pessoal aonde crio e/ou reenvento alguns projetos temporários, gerando serviços aplicaveis em Engenharia de Dados.
+#### Estou trabalhando em um programa pessoal, Criando e/ou Reinventando alguns projetos temporários, a fim de gerar serviços aplicaveis em Engenharia de Dados e seguir as boas práticas de DataOps e Data Mesh.
 
 - Link <a href="https://github.com/MarioBarcelos/proj-eng-dados-comerciobr.git">Projeto de Engenharia de Dados com Google Cloud Platform | Análise de Dados das Exportações Brasileiras</a>
 - Link <a href="https://github.com/MarioBarcelos/projeto-eng-dados-uber.git">Projeto Moderno de Engenharia de Dados Google Cloud Platform | Análise de Dados Uber</a>
