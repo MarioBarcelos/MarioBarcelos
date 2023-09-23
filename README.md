@@ -5,7 +5,7 @@
 - Link <a href="https://github.com/MarioBarcelos/proj-eng-dados-comerciobr.git">Projeto de Engenharia de Dados com Google Cloud Platform | Análise de Dados das Exportações Brasileiras</a>
 - Link <a href="https://github.com/MarioBarcelos/projeto-eng-dados-uber.git">Projeto Moderno de Engenharia de Dados Google Cloud Platform | Análise de Dados Uber</a>
 - Link <a href="https://github.com/MarioBarcelos/LupaLupa_App.git">Projeto GUI com PyQt | Lupa Lupa App v1.0.0</a>
-- Link <a href="https://github.com/MarioBarcelos/proj_epidemia_c19.git">Projeto de Engenharia de Dados com Modern Data Stack | Epidemia Mundial 2019</a>
+- Link <a href="https://github.com/MarioBarcelos/proj_epidemia_c19.git">Projeto de Engenharia de Dados | Epidemia Mundial</a>
 - Link <a href="https://github.com/MarioBarcelos/proj-eng-dados-cripto.git">Projeto de Engenharia de Dados em Batch | Comércio internacional de Cripto Moedas</a>
 - Link <a href="https://github.com/MarioBarcelos/job_terraform_aws.git">Terraform com Amazon Web Service</a>
 - Link <a href="https://github.com/MarioBarcelos/analise-explo-comer-imp21.git">Análise Exploratória no Ministério da Economia</a>
