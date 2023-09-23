@@ -12,5 +12,6 @@
 - Link <a href="https://github.com/MarioBarcelos/job_airdbtpost.git">Projeto de Engenharia de Dados | Airbyte com DBT e Postgresql</a>
 - Link <a href="https://github.com/MarioBarcelos/webscrap.git">Projeto Engenharia de Dados | Ingestão de Dados de Loja Virtual</a>
 
-> Para sabaer mais sobre mim acesse meu <a href="https://www.linkedin.com/in/mario-barcelos/">Linkedin</a> e sinta-se a vontade para me enviar uma mensagem por lá.
-Caso encontre violação de direitos de propriedade envie-me um e-mail para mariosbpimentel@gmail.com
+## Para sabaer mais sobre mim acesse meu <a href="https://www.linkedin.com/in/mario-barcelos/">Linkedin</a> e sinta-se a vontade para me enviar uma mensagem por lá.
+
+> Caso encontre violação de direitos de propriedade envie-me um e-mail para mariosbpimentel@gmail.com
