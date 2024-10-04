@@ -14,4 +14,4 @@
 
 ### Para sabaer mais sobre mim acesse meu <a href="https://www.linkedin.com/in/mario-barcelos/">Linkedin</a> e sinta-se a vontade para me enviar uma mensagem por lá.
 
-> Caso encontre violação de direito de propriedade envie-me um e-mail para mariosbpimentel@gmail.com
+> Caso encontre violação de direito de propriedade intelectual envie-me um e-mail para mariosbpimentel@gmail.com
