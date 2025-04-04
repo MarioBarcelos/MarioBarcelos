@@ -2,7 +2,7 @@
 
 #### Criando e/ou Reinventando alguns projetos temporários, a fim de gerar serviços aplicaveis em Engenharia de Dados e seguir as boas práticas de DataOps e Data Mesh.
 
-- Link <a href="https://github.com/MarioBarcelos/awsLambda_Dedicado">Micro Serviço dedicado a eventos com Lambda AWS | Serviço para envio de e-mail a fim de informar o sucesso de determinado Pagamento</a>
+- Link <a href="https://github.com/MarioBarcelos/awsLambda_Dedicado">Micro Serviço dedicado a eventos com Lambda AWS | Envio de e-mail a fim de informar o sucesso de determinado Pagamento</a>
 - Link <a href="https://github.com/MarioBarcelos/apiDedicada_loja">API para e-comerce de roupas | Integração utilizada em Loja de E-comerce</a>
 - Link <a href="https://github.com/MarioBarcelos/microServico_arqHexagonal">Projeto dedicado a micro serviços com arquitetura Hexagonal | Serviço dedicado a processamento de Boleto</a>
 - Link <a href="https://github.com/MarioBarcelos/proj-eng-dados-comerciobr.git">Projeto de Engenharia de Dados com Google Cloud Platform | Análise de Dados das Exportações Brasileiras</a>
