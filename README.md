@@ -6,6 +6,7 @@
 - Link <a href="https://github.com/MarioBarcelos/fast_social">Fast Social | Back-end dedicado a simular a realidade aplicada no Twitter</a>
 - Link <a href="https://github.com/MarioBarcelos/apiDedicada_loja">API para e-comerce de roupas | Integração utilizada em Loja de E-comerce</a>
 - Link <a href="https://github.com/MarioBarcelos/microServico_arqHexagonal">Projeto dedicado a micro serviços com arquitetura Hexagonal | Serviço dedicado a processamento de Boleto</a>
+- Link <a href="https://github.com/MarioBarcelos/tribarinHCBackEnd">API escrita em Grails dedicada a E-comerce | Projeto de Loja online</a>
 - Link <a href="https://github.com/MarioBarcelos/proj-eng-dados-comerciobr.git">Projeto de Engenharia de Dados com Google Cloud Platform | Análise de Dados das Exportações Brasileiras</a>
 - Link <a href="https://github.com/MarioBarcelos/projeto-eng-dados-uber.git">Projeto Moderno de Engenharia de Dados Google Cloud Platform | Análise de Dados Uber</a>
 - Link <a href="https://github.com/MarioBarcelos/LupaLupa_App.git">Projeto GUI com PyQt | Lupa Lupa App v1.0.0</a>
